@@ -7,4 +7,4 @@
 - 🤗 Open source enthusiast
 - ⚡ Technologies I use the most: Node, TypeScript, GraphQL, React
 - 🏁 I spend my free time on motorsport and car modeling.
-- 📫 You can reach me by email [konrad.bosak@protonmail.com](mailto:konrad.bosak@protonmail.com)
+- 📫 You can reach me by email [konrad.bosak@proton.me](mailto:konrad.bosak@proton.me)
